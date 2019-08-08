@@ -1,23 +1,16 @@
 {
-  "-------------------------------------------------": "--------------------------------------",
-  "Das ist eine Kommentar-Linie. Einfach ignorieren.": "That's a comment line. Just ignore it.",
-  "Name der Datei":"index.json",
-  "-------------------------------------------------": "--------------------------------------",
-
   "MeinUpdateKit":
     {
-      "icloudLink":"",
       "Version": "0.2",
       "URL": "",
       "Notes": "MeinUpdateKit initial release.",
       "Release": "13.06.2018"
-    },
+  },
   "Kurzbefehl 1 für MeinUpdateKit":
     {
-      "icloudLink":"https://www.icloud.com/shortcuts/f821282a4b6c447a9a8af1d15e6f01bb",
       "Version": "1",
       "URL": "https://www.icloud.com/shortcuts/f821282a4b6c447a9a8af1d15e6f01bb",
       "Notes": "Kurzbefehl 1 für MeinUpdateKit initial release.",
       "Release": "13.06.2018"
-    }
+  }
 }
