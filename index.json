@@ -7,9 +7,7 @@
 
   "MeinUpdateKit":
     {
-      "lokale Datei":"Dropbox/Public/Shortcuts/MeinUpdateKit",
       "icloudLink":"",
-      "Update-Datei":"https://www.dropbox.com/s/gvsis9zku7zuis5/update.json?dl=1",
       "Version": "0.2",
       "URL": "",
       "Notes": "MeinUpdateKit initial release.",
@@ -17,9 +15,7 @@
     },
   "Kurzbefehl 1 für MeinUpdateKit":
     {
-      "lokale Datei":"Dropbox/Public/Shortcuts/MeinUpdateKit/Kurzbefehl 1 für MeinUpdateKit",
       "icloudLink":"https://www.icloud.com/shortcuts/f821282a4b6c447a9a8af1d15e6f01bb",
-      "Update-Datei":"https://www.dropbox.com/s/8sqd64w6vzhcdi5/update.json?dl=1",
       "Version": "1",
       "URL": "https://www.icloud.com/shortcuts/f821282a4b6c447a9a8af1d15e6f01bb",
       "Notes": "Kurzbefehl 1 für MeinUpdateKit initial release.",
