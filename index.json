@@ -1,9 +1,8 @@
 {
-  "-------------------------------------------------" : "--------------------------------------",
-  "Das ist eine Kommentar-Linie. Einfach ignorieren." : "That's a comment line. Just ignore it.",
+  "-------------------------------------------------": "--------------------------------------",
+  "Das ist eine Kommentar-Linie. Einfach ignorieren.": "That's a comment line. Just ignore it.",
   "Name der Datei":"index.json",
-  "Dropbox-Freigabe":"https:\/\/www.dropbox.com\/s\/f5bt3sirf3qbjdo\/index.json?dl=1",
-  "-------------------------------------------------" : "--------------------------------------",
+  "-------------------------------------------------": "--------------------------------------",
 
   "MeinUpdateKit":
     {
