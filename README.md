@@ -1,2 +1,2 @@
-# MeinUpdateKit
-Mein UpdateKit für meine Kurzbefehle
+# MeinUpdateHub
+Mein UpdateHub für meine Kurzbefehle
