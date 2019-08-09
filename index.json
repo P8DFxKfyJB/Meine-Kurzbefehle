@@ -1,11 +1,11 @@
 {
-  "MeinUpdateKit":
+  	 "MeinUpdateKit":
     {
       "Version": "0.2",
-      "URL": "",
-      "Notes": "MeinUpdateKit initial release.",
-      "Release": "13.06.2018"
-  },
+      "URL": "Kurzbefehl 1 für MeinUpdateKit",
+      "Notes": "Testlauf für erste VÖ",
+      "Release": "08.08.19"
+	},
   "Kurzbefehl 1 für MeinUpdateKit":
     {
       "Version": "1",
